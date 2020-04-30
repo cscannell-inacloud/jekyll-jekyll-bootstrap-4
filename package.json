@@ -31,7 +31,7 @@
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.4",
     "gulp-uglify": "^3.0.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery-match-height": "^0.7.2",
     "magnific-popup": "^1.1.0",
     "popper.js": "^1.14.7",
